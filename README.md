@@ -19,8 +19,8 @@
   <img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <details> 
   <summary>📊 My Github Stats</summary> 
-  ![Benedict's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambdhict&show_icons=true)
-
+  ![Benedict's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambdhict&show_icons=true&theme=radical)
+  <br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
-  <br />
