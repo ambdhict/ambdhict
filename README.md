@@ -3,22 +3,26 @@
 </p>
 <h1 align="center">I'm a Software Developer!</h1>
 
-  ### Skill Set
-  <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img align="left" alt="JQuery" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
-  <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-  <img align="left" alt="MSSql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+### Skill Set
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,php,js,dotnet,css,html,bootstrap,jquery,mysql" />
+  </a>
   <br />
-  <h3 color="blue">Tools Used:</h3>
-  <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-  <br />
-  <h3>Social Media Accounts</h3>
-  <img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<details> 
-  <summary>📊 My Github Stats</summary> 
-  ![Benedict's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambdhict&show_icons=true&theme=radical)
-</details>
+  
+ ### Tools Used
+  <p align="center>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio" />
+    </a>
+  </p>
+  
+### Currently Learning
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react" />
+</a>
+  
+### Stats
+
+![ambdhict's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambdhict&show_icons=true&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ambdhict&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
