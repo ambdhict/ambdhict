@@ -36,20 +36,20 @@
   </a>
 </p> --->
 
-### Skill Set
+### :space_invader: Skill Set
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,php,css,html,bootstrap,js,jquery,mysql" />
   </a>
   <br />
   
- ### Tools Used
+ ### :scroll: Tools Used
   <p align="center>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio" />
     </a>
   </p>
   
-### Currently Learning
+### :dart: Currently Learning
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=laravel,react" />
 </a>
