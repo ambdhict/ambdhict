@@ -5,7 +5,7 @@
 
 ### Skill Set
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,php,js,dotnet,css,html,bootstrap,jquery,mysql" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,php,css,html,bootstrap,js,jquery,mysql" />
   </a>
   <br />
   
@@ -18,7 +18,7 @@
   
 ### Currently Learning
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=laravel,react" />
 </a>
   
 ### Stats
