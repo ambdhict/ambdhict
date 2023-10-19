@@ -11,8 +11,30 @@
   * 🧠  I'm learning Laravel and React as of the moment
   * 🤝  I'm open to collaborating on a new client project
   <br/>
-  
+   
   Feel free to reach out if you're interested in discussing potential collaborations or have any questions about my background and experiences.
+
+  <!-- Badges -->
+<!--- <p align="center">
+  <a href="https://github.com/ambdhict/README.md/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/ambdhict/LandingPage" alt="contributors" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/github/last-commit/ambdhict/README.md" alt="last update" />
+  </a>
+  <a href="https://github.com/ambdhict/LandingPage/network/members">
+    <img src="https://img.shields.io/github/forks/ambdhict/README.md" alt="forks" />
+  </a>
+  <a href="https://github.com/ambdhict/LandingPage/stargazers">
+    <img src="https://img.shields.io/github/stars/ambdhict/README.md" alt="stars" />
+  </a>
+  <a href="https://github.com/ambdhict/awesome-readme-template/issues/">
+    <img src="https://img.shields.io/github/issues/ambdhict/README.md" alt="open issues" />
+  </a>
+  <a href="https://github.com/ambdhict/LandingPage/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/ambdhict/README.md" alt="license" />
+  </a>
+</p> --->
 
 ### Skill Set
   <a href="https://skillicons.dev">
