@@ -40,7 +40,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,php,css,html,bootstrap,js,jquery,mysql" />
   </a>
-    <img src="https://icons8.com/icon/1BC75jFEBED6/.net-framework" />
     
   <br />
   
