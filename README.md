@@ -38,7 +38,7 @@
 
 ### :space_invader: Skill Set
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,php,css,html,bootstrap,js,jquery,mysql" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,php,css,html,bootstrap,js,jquery,mysql,git" />
   </a>
     
   <br />
@@ -46,13 +46,13 @@
  ### :scroll: Tools Used
   <p align="center>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio" />
+      <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,ps" />
     </a>
   </p>
   
 ### :dart: Currently Learning
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=laravel,react" />
+  <img src="https://skillicons.dev/icons?i=laravel,react,mongodb,ts,vite" />
 </a>
   
 ### Stats
