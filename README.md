@@ -46,7 +46,7 @@
  ### :scroll: Tools Used
   <p align="center>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,ps,stackoverflow" />
+      <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,ps,stackoverflow,postman" />
     </a>
   </p>
   
