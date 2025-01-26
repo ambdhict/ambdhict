@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi&nbsp;there&nbsp;I'm&nbsp;Ben!&height=150&section=header"/>
 </p>
 <h1 align="center">I'm a Software Developer!</h1>
-![](https://komarev.com/ghpvc/?username=ambdhict&label=Profile%20Visits&color=blue&style=for-the-badge)
+![](https://ambdhict.com/ghpvc/?username=ambdhict&label=Profile%20Visits&color=blue&style=for-the-badge)
 
 ### About Me
 
