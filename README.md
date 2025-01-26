@@ -5,7 +5,7 @@
 
 ### About Me
 
-  I'm currently working as a C# Developer. I love to explore new tech stacks.
+  I'm currently working as a Full Stack C# .Net Developer. I love to explore new tech stacks.
   * 🌍  I'm based in Philippines
   * ✉️  You can contact me at [ambdhict22@gmail.com](mailto:ambdhict22@gmail.com)
   * 🧠  I'm learning Laravel and React as of the moment
