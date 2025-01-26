@@ -38,7 +38,7 @@
 
 ### :space_invader: Skill Set
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,php,css,html,angular,bootstrap,js,jquery,mysql,postgre,git" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,php,css,html,angular,bootstrap,js,jquery,mysql,postgres,git" />
   </a>
     
   <br />
